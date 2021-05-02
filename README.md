@@ -1,4 +1,2 @@
 # java-Project
-This is first repo
-
-this is my commit.
+This is first Project
